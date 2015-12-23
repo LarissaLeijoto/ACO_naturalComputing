@@ -7,7 +7,7 @@
 \contentsline {subsubsection}{\numberline {2.2.2}Dist\IeC {\^a}ncias}{3}{subsubsection.2.2.2}
 \contentsline {subsubsection}{\numberline {2.2.3}Ferom\IeC {\^o}nio}{3}{subsubsection.2.2.3}
 \contentsline {subsubsection}{\numberline {2.2.4}Probabilidades}{3}{subsubsection.2.2.4}
-\contentsline {subsubsection}{\numberline {2.2.5}M\IeC {\'e}todos importantes}{3}{subsubsection.2.2.5}
+\contentsline {subsubsection}{\numberline {2.2.5}M\IeC {\'e}todos importantes}{4}{subsubsection.2.2.5}
 \contentsline {section}{\numberline {3}Arquivos, compila\IeC {\c c}\IeC {\~a}o e execu\IeC {\c c}\IeC {\~a}o}{4}{section.3}
 \contentsline {subsection}{\numberline {3.1}Arquivos}{4}{subsection.3.1}
 \contentsline {subsection}{\numberline {3.2}Compila\IeC {\c c}\IeC {\~a}o}{5}{subsection.3.2}
